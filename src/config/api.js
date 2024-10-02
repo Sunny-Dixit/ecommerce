@@ -1,6 +1,6 @@
 import axios from 'axios';
 const DEPLOYED = 'https://codewithzosh.cyclic.app/'
-const LOCALHOST = 'http://localhost:5454'
+const LOCALHOST = 'http://fashion.ap-south-1.elasticbeanstalk.com'
 
 export const API_BASE_URL = LOCALHOST;
 
